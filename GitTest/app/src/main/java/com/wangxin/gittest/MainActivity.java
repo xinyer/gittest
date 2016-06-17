@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         mTextView = (TextView) findViewById(R.id.tv);
 
         System.out.println("hello master.");
+
+        System.out.print("--11--");
     }
 }
