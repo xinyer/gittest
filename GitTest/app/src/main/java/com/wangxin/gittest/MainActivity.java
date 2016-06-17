@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("hello master.");
 
-        System.out.print("--11--");
+        System.out.println("--11--");
+
+        System.out.println("--22--");
     }
 }
