@@ -14,5 +14,10 @@ master commit.
 
 1
 
+删除第一次reset测试提交
 
-test reset 1
+test reset 2
+
+test reset 3
+
+reset 之后添加的内容
